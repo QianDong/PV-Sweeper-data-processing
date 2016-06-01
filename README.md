@@ -2,8 +2,7 @@
 
 ### This repository contains project code for a human-computer interaction device -- PV Sweeper GUI.
 
-###head files, cpp files, pro files are included.
+##### code include headfiles, cpp files, pro-files. please check them in sub-repository.
 
-###widget -- qcustomplot is also included
-
-### University of Southern Denmark, Mads Clausen Institute, MC3.
+### Mads Clausen Institute
+### University of Southern Denmark
